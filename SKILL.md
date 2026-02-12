@@ -1,11 +1,10 @@
 ---
 name: pressure-practice-design
-description: Design deliberate practice that simulates high-pressure conditions so
-  your peak performance moments feel routine, not terrifying.
+description: Design deliberate practice that simulates high-pressure conditions so your peak performance moments feel routine, not terrifying.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - pressure-practice-design
 - writing
